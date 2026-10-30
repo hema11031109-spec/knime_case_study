@@ -7,17 +7,17 @@ Understand the factors affecting customer retention.
 Gain insights to improve customer satisfaction.
 
 🛠️ Tools & Technologies
-KNIME Analytics Platform
-Customer Churn Dataset
-Data Analytics
-Machine Learning
+KNIME Analytics Platform,
+Customer Churn Dataset,
+Data Analytics,
+Machine Learning,
 
 ⚙️ Project Workflow
-Dataset Import
-Data Cleaning and Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Customer Churn Analysis
+Dataset Import->
+Data Cleaning and Preprocessing->
+Exploratory Data Analysis->
+Data Visualization->
+Customer Churn Analysis->
 Model Building and Prediction (if performed)
 
 📊 Key Insights
